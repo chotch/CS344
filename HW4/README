@@ -1,0 +1,1 @@
+To compile my program: in the command window type gcc -o smallsh smallsh.c from the directory that smallsh.c is located in. Then, to run my program, type smallsh into the command prompt while in the same directory that smallsh and smallsh.c are located in.
